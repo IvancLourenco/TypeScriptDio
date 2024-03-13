@@ -1,5 +1,4 @@
- const soma = ( a:number , b: number) => {
-    return console.log( a + b)
- }
-
- soma(1, 3)
+let a: String = "A";
+let b: Number = 2;
+let x: Boolean = true;
+let m: any = "qualquer tipo";
